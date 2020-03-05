@@ -1,0 +1,106 @@
+PlayerName,Date,MatchType(OneDay-T20-Test),OppositionTeam,TossWin,BowlingFirst,BattingFirst,hometeam,LastMatchesPerformance,Last3MatchesPerformance,Last6MatchesPerformance,weather,pitch,Form(InOrOut),Order(BattingBowlingOrder),Performance(IT is label. For Batsman:Runs. For Bowler: Wickets)
+Rohit Sharma,02-Feb-20,T20,vÿNew Zealand,TRUE,FALSE,TRUE,New Zealand,Good,Bad,Good,Sunny,Dusty,In,3,60*
+Rohit Sharma,29-Jan-20,T20,vÿNew Zealand,TRUE,FALSE,TRUE,New Zealand,Bad,Good,Bad,Sunny,Green,In,1,65
+Rohit Sharma,26-Jan-20,T20,vÿNew Zealand,TRUE,TRUE,FALSE,New Zealand,Bad,Good,Good,Overcast,Green,Out,1,8
+Rohit Sharma,24-Jan-20,T20,vÿNew Zealand,TRUE,TRUE,FALSE,New Zealand,Good,Good,Good,Overcast,Green,Out,1,7
+Rohit Sharma,11-Dec-19,T20,vÿWest Indies,TRUE,FALSE,TRUE,India,Bad,Bad,Bad,Sunny,Dead,In,1,71
+Rohit Sharma,08-Dec-19,T20,vÿWest Indies,TRUE,FALSE,TRUE,India,Bad,Good,Bad,Overcast,Green,Out,1,15
+Rohit Sharma,06-Dec-19,T20,vÿWest Indies,FALSE,TRUE,FALSE,India,Bad,Good,Good,Overcast,Dead,Out,1,8
+Rohit Sharma,10-Nov-19,T20,vÿBangladesh,TRUE,FALSE,TRUE,India,Good,Good,Good,Overcast,Green,Out,1,2
+Rohit Sharma,07-Nov-19,T20,vÿBangladesh,FALSE,TRUE,FALSE,India,Bad,Bad,Bad,Sunny,Dusty,In,1,85
+Rohit Sharma,03-Nov-19,T20,vÿBangladesh,TRUE,FALSE,TRUE,India,Bad,Good,Good,Overcast,Green,Out,1,9
+Rohit Sharma,22-Sep-19,T20,vÿSouth Africa,TRUE,FALSE,TRUE,India,Bad,Good,Good,Overcast,Dead,Out,2,9
+Rohit Sharma,18-Sep-19,T20,vÿSouth Africa,FALSE,TRUE,FALSE,India,Good,Good,Good,Overcast,Dead,Out,1,12
+Rohit Sharma,04-Aug-19,T20,vÿWest Indies,TRUE,FALSE,TRUE,West Indies,Bad,Bad,Good,Overcast,Green,In,1,67
+Rohit Sharma,03-Aug-19,T20,vÿWest Indies,FALSE,TRUE,FALSE,West Indies,Bad,Good,Bad,Sunny,Dusty,Out,1,24
+Rohit Sharma,24-Feb-19,T20,vÿAustralia,FALSE,FALSE,TRUE,India,Good,Good,Bad,Sunny,Dusty,Out,1,5
+Rohit Sharma,10-Feb-19,T20,vÿNew Zealand,FALSE,TRUE,FALSE,New Zealand,Good,Bad,Bad,Overcast,Green,In,2,38
+Rohit Sharma,08-Feb-19,T20,vÿNew Zealand,FALSE,TRUE,FALSE,New Zealand,Bad,Bad,Bad,Sunny,Green,In,1,50
+Rohit Sharma,06-Feb-19,T20,vÿNew Zealand,TRUE,TRUE,FALSE,New Zealand,Bad,Bad,Bad,Overcast,Green,Out,1,1
+Rohit Sharma,25-Nov-18,T20,vÿAustralia,TRUE,TRUE,FALSE,Australia,Good,Bad,Bad,Overcast,Dusty,Out,1,23
+Rohit Sharma,23-Nov-18,T20,vÿAustralia,TRUE,TRUE,FALSE,Australia,Bad,Bad,Bad,Overcast,Dusty,In,-,TDNB
+Rohit Sharma,21-Nov-18,T20,vÿAustralia,TRUE,TRUE,FALSE,Australia,Bad,Bad,Bad,Sunny,Dead,Out,1,7
+Rohit Sharma,11-Nov-18,T20,vÿWest Indies,FALSE,TRUE,FALSE,India,Good,Bad,Bad,Overcast,Dead,Out,2,4
+Rohit Sharma,06-Nov-18,T20,vÿWest Indies,TRUE,FALSE,TRUE,India,Bad,Bad,Bad,Overcast,Green,In,1,111*
+Rohit Sharma,04-Nov-18,T20,vÿWest Indies,TRUE,TRUE,FALSE,India,Good,Bad,Good,Sunny,Dead,Out,1,6
+Rohit Sharma,08-Jul-18,T20,vÿEngland,TRUE,TRUE,FALSE,England,Bad,Bad,Good,Sunny,Dusty,In,1,100*
+Rohit Sharma,06-Jul-18,T20,vÿEngland,FALSE,FALSE,TRUE,England,Good,Good,Good,Sunny,Dusty,Out,1,5
+Rohit Sharma,03-Jul-18,T20,vÿEngland,TRUE,TRUE,FALSE,England,Bad,Good,Good,Overcast,Dead,In,2,32
+Rohit Sharma,29-Jun-18,T20,vÿIreland,FALSE,FALSE,TRUE,Ireland,Good,Good,Good,Sunny,Green,Out,4,0
+Rohit Sharma,27-Jun-18,T20,vÿIreland,TRUE,FALSE,TRUE,Ireland,Good,Good,Good,Sunny,Dusty,In,1,97
+Rohit Sharma,18-Mar-18,T20,vÿBangladesh,FALSE,TRUE,FALSE,Neutral,Good,Good,Bad,Sunny,Green,In,2,56
+Rohit Sharma,14-Mar-18,T20,vÿBangladesh,TRUE,FALSE,TRUE,Neutral,Bad,Bad,Bad,Sunny,Green,In,1,89
+Rohit Sharma,12-Mar-18,T20,vÿSri Lanka,TRUE,TRUE,FALSE,Sri Lanka,Bad,Bad,Bad,Overcast,Dead,Out,1,11
+Rohit Sharma,08-Mar-18,T20,vÿBangladesh,TRUE,TRUE,FALSE,Neutral,Bad,Bad,Good,Sunny,Green,Out,1,17
+Rohit Sharma,06-Mar-18,T20,vÿSri Lanka,TRUE,FALSE,TRUE,Sri Lanka,Bad,Bad,Good,Overcast,Dusty,Out,1,0
+Rohit Sharma,24-Feb-18,T20,vÿSouth Africa,TRUE,FALSE,TRUE,South Africa,Bad,Bad,Good,Overcast,Dusty,Out,1,11
+Rohit Sharma,21-Feb-18,T20,vÿSouth Africa,FALSE,FALSE,TRUE,South Africa,Bad,Good,Good,Sunny,Dead,Out,2,0
+Rohit Sharma,18-Feb-18,T20,vÿSouth Africa,TRUE,FALSE,TRUE,South Africa,Bad,Good,Good,Sunny,Green,Out,1,21
+Rohit Sharma,24-Dec-17,T20,vÿSri Lanka,TRUE,TRUE,FALSE,India,Good,Good,Good,Overcast,Green,Out,1,27
+Rohit Sharma,22-Dec-17,T20,vÿSri Lanka,FALSE,FALSE,TRUE,India,Bad,Bad,Bad,Sunny,Dusty,In,1,118
+Rohit Sharma,20-Dec-17,T20,vÿSri Lanka,TRUE,FALSE,TRUE,India,Bad,Good,Bad,Overcast,Dead,Out,1,17
+Rohit Sharma,07-Nov-17,T20,vÿNew Zealand,TRUE,FALSE,TRUE,India,Bad,Good,Bad,Overcast,Dead,Out,1,8
+Rohit Sharma,04-Nov-17,T20,vÿNew Zealand,FALSE,TRUE,FALSE,India,Good,Good,Good,Overcast,Green,Out,1,5
+Rohit Sharma,01-Nov-17,T20,vÿNew Zealand,TRUE,FALSE,TRUE,India,Bad,Bad,Bad,Overcast,Green,In,1,80
+Rohit Sharma,10-Oct-17,T20,vÿAustralia,FALSE,FALSE,TRUE,India,Bad,Bad,Bad,Sunny,Green,Out,1,8
+Rohit Sharma,07-Oct-17,T20,vÿAustralia,TRUE,TRUE,FALSE,India,Bad,Bad,Good,Sunny,Dusty,Out,1,11
+Rohit Sharma,06-Sep-17,T20,vÿSri Lanka,TRUE,TRUE,FALSE,Sri Lanka,Good,Good,Good,Overcast,Dead,Out,1,9
+Rohit Sharma,28-Aug-16,T20,vÿWest Indies,TRUE,TRUE,FALSE,West Indies,Good,Good,Good,Overcast,Dead,In,1,10*
+Rohit Sharma,27-Aug-16,T20,vÿWest Indies,FALSE,TRUE,FALSE,West Indies,Good,Bad,Bad,Sunny,Green,In,1,62
+Rohit Sharma,31-Mar-16,T20,vÿWest Indies,FALSE,FALSE,TRUE,India,Bad,Bad,Bad,Overcast,Dead,In,1,43
+Rohit Sharma,27-Mar-16,T20,vÿAustralia,TRUE,TRUE,FALSE,India,Bad,Bad,Bad,Sunny,Green,Out,1,12
+Rohit Sharma,23-Mar-16,T20,vÿBangladesh,FALSE,FALSE,TRUE,India,Bad,Bad,Bad,Sunny,Dusty,Out,1,18
+Rohit Sharma,19-Mar-16,T20,vÿPakistan,TRUE,TRUE,FALSE,India,Bad,Bad,Good,Sunny,Dusty,Out,1,10
+Rohit Sharma,15-Mar-16,T20,vÿNew Zealand,FALSE,TRUE,FALSE,India,Bad,Bad,Good,Sunny,Dusty,Out,1,5
+Rohit Sharma,06-Mar-16,T20,vÿBangladesh,TRUE,TRUE,FALSE,Bangladesh,Good,Bad,Good,Sunny,Green,Out,1,1
+Rohit Sharma,03-Mar-16,T20,vÿU.A.E.,FALSE,TRUE,FALSE,Neutral,Bad,Good,Good,Overcast,Green,In,1,39
+Rohit Sharma,01-Mar-16,T20,vÿSri Lanka,FALSE,TRUE,FALSE,Neutral,Bad,Good,Good,Sunny,Dead,Out,2,15
+Rohit Sharma,27-Feb-16,T20,vÿPakistan,FALSE,TRUE,FALSE,Neutral,Good,Good,Good,Sunny,Dusty,Out,1,0
+Rohit Sharma,24-Feb-16,T20,vÿBangladesh,FALSE,FALSE,TRUE,Bangladesh,Bad,Bad,Good,Sunny,Green,In,1,83
+Rohit Sharma,14-Feb-16,T20,vÿSri Lanka,FALSE,TRUE,FALSE,India,Good,Good,Good,Sunny,Dead,Out,1,13
+Rohit Sharma,12-Feb-16,T20,vÿSri Lanka,TRUE,FALSE,TRUE,India,Bad,Good,Good,Sunny,Dusty,In,1,43
+Rohit Sharma,09-Feb-16,T20,vÿSri Lanka,FALSE,FALSE,TRUE,India,Good,Good,Good,Sunny,Dead,Out,1,0
+Rohit Sharma,31-Jan-16,T20,vÿAustralia,TRUE,TRUE,FALSE,Australia,Good,Good,Good,Sunny,Dusty,In,1,52
+Rohit Sharma,29-Jan-16,T20,vÿAustralia,FALSE,FALSE,TRUE,Australia,Good,Good,Good,Sunny,Green,In,1,60
+Rohit Sharma,26-Jan-16,T20,vÿAustralia,FALSE,FALSE,TRUE,Australia,Bad,Good,Good,Overcast,Dusty,In,1,31
+Rohit Sharma,05-Oct-15,T20,vÿSouth Africa,TRUE,FALSE,TRUE,India,Good,Good,Bad,Overcast,Dusty,Out,1,22
+Rohit Sharma,02-Oct-15,T20,vÿSouth Africa,FALSE,FALSE,TRUE,India,Bad,Bad,Bad,Overcast,Green,In,1,106
+Rohit Sharma,06-Apr-14,T20,vÿSri Lanka,FALSE,FALSE,TRUE,Neutral,Bad,Bad,Bad,Overcast,Green,Out,1,29
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
